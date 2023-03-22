@@ -1,3 +1,5 @@
+![alt text](https://iili.io/HhcZXPp.png)
+
 # Build a Rock Climbing Company Landing Page with HTML & CSS
 
 Verify Local Environment
